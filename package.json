@@ -1,0 +1,42 @@
+{
+  "name": "@patosala/rn-image-cache",
+  "version": "1.0.3",
+  "description": "A react native component to reduce image requests by caching and later loading them from there.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatoSala/rn-image-cache.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "image",
+    "cache",
+    "expo",
+    "img"
+  ],
+  "author": "Pato Sala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatoSala/rn-image-cache/issues"
+  },
+  "homepage": "https://github.com/PatoSala/rn-image-cache#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.77.0"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "expo": "^49.0.21",
+    "expo-crypto": "^12.6.0",
+    "expo-file-system": "^15.6.0"
+  },
+  "dependencies": {
+    "expo": "^49.0.21",
+    "expo-crypto": "^12.6.0",
+    "expo-file-system": "^15.6.0"
+  }
+}
