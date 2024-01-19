@@ -1,6 +1,6 @@
 {
   "name": "@patosala/rn-image-cache",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A react native component to reduce image requests by caching and later loading them from there.",
   "main": "index.js",
   "scripts": {
