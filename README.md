@@ -1,4 +1,4 @@
-# React Native CachedImage
+# Photobook
 
 A react-native component to save and load images from cache.
 
