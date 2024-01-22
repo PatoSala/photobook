@@ -1,6 +1,6 @@
 {
-  "name": "@patosala/rn-image-cache",
-  "version": "1.0.4",
+  "name": "@patosala/photobook",
+  "version": "1.0.5",
   "description": "A react native component to reduce image requests by caching and later loading them from there.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PatoSala/rn-image-cache.git"
+    "url": "git+https://github.com/PatoSala/photobook.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Pato Sala",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PatoSala/rn-image-cache/issues"
+    "url": "https://github.com/PatoSala/photobook/issues"
   },
-  "homepage": "https://github.com/PatoSala/rn-image-cache#readme",
+  "homepage": "https://github.com/PatoSala/photobook#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.77.0"
   },
